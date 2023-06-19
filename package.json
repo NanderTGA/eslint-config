@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/NanderTGA/eslint-config#readme",
   "peerDependencies": {
-    "eslint": "^8.41.0",
-    "eslint-plugin-jsdoc": "^44.2.7",
-    "eslint-plugin-jsonc": "^2.8.0",
+    "eslint": "^8.43.0",
+    "eslint-plugin-jsdoc": "^46.2.6",
+    "eslint-plugin-jsonc": "^2.9.0",
     "jsonc-eslint-parser": "2.3.0",
-    "@typescript-eslint/eslint-plugin": "^5.59.7",
-    "@typescript-eslint/parser": "^5.59.7"
+    "@typescript-eslint/eslint-plugin": "^5.60.0",
+    "@typescript-eslint/parser": "^5.60.0"
   }
 }
