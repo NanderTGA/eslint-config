@@ -2,7 +2,7 @@
   "name": "@nandertga/eslint-config",
   "version": "2.0.0",
   "description": "My ESLint configuration.",
-  "main": "index.js",
+  "main": ".eslintrc.cjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "echo \"WARNIGN: No build script provided!\""
