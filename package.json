@@ -1,6 +1,6 @@
 {
   "name": "@nandertga/eslint-config",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "My ESLint configuration.",
   "main": ".eslintrc.cjs",
   "scripts": {},
