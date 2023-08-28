@@ -1,4 +1,17 @@
 module.exports = {
+    root: true,
+    env : {
+        "browser" : true,
+        "commonjs": true,
+        "es2023"  : true,
+        "node"    : true,
+    },
+    parserOptions: {
+        ecmaVersion : "latest",
+        ecmaFeatures: {
+            globalReturn: true,
+        },
+    },
     extends: [
         "eslint:recommended",
         "plugin:jsdoc/recommended",
