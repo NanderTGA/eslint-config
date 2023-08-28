@@ -119,6 +119,7 @@ module.exports = {
                     "ts-ignore": "allow-with-description",
                 } ],
                 "@typescript-eslint/no-confusing-void-expression": [ "error", { ignoreVoidOperator: true } ],
+                "@typescript-eslint/no-meaningless-void-operator": "off",
             },
         },
         {
