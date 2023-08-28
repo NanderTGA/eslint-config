@@ -1,1 +1,1 @@
-module.exports = require(".eslintrc.cjs");
+module.exports = require("./.eslintrc.cjs");
