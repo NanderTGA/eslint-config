@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/NanderTGA/eslint-config#readme",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.17.0",
+    "@typescript-eslint/eslint-plugin": "^6.18.0",
     "@typescript-eslint/parser": "^6.17.0",
     "eslint-plugin-jsdoc": "^48.0.2",
     "eslint-plugin-jsonc": "^2.11.2",
