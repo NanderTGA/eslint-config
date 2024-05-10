@@ -25,7 +25,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
-    "eslint-plugin-jsdoc": "^48.2.3",
+    "eslint-plugin-jsdoc": "^48.2.4",
     "eslint-plugin-jsonc": "^2.15.1",
     "jsonc-eslint-parser": "2.4.0"
   },
